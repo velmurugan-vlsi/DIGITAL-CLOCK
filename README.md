@@ -10,7 +10,7 @@ The design follows **synchronous digital design principles**, ensures reliable b
 
 ## Table of Contents
 
-- [Problem Statement](https://github.com/SiliconWorks/DIGITAL-CLOCK#problem-statement)
+- [Problem Statement](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#Problem-Statement)
   
 - [Features](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#features)
   
