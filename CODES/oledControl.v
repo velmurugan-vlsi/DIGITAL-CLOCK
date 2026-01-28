@@ -1,5 +1,6 @@
 `timescale 1ns / 1ps
 
+
 module oledControl(
 input  clock, //100MHz onboard clock
 input  reset,
