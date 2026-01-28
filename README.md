@@ -63,16 +63,7 @@ This project solves these challenges using structured Verilog design, synchroniz
 ---
 
 ## Block Diagram
-The system consists of the following major functional blocks:
-
-- Clock Divider (100 MHz → 1 Hz)  
-- Time Counter (HH:MM:SS)  
-- Button Synchronizer Block  
-- Time-Set Controller  
-- Alarm & Snooze Controller  
-- OLED Interface FSM  
-
----
+<img width="1920" height="1080" alt="CLOCK DIVIDER (1)" src="https://github.com/user-attachments/assets/ee6213aa-fdd4-4030-a706-f8990d83e91b" />
 
 ## Clock Operating Modes
 
