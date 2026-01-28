@@ -14,19 +14,29 @@ The design follows **synchronous digital design principles**, ensures reliable b
   
 - [Features](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#features)
   
-- [Tools and Hardware](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#tools-and-hardware)  
+- [Tools and Hardware](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#tools-and-hardware)
+ 
 - [Block Diagram](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#block-diagram)
   
-- [Clock Operating Modes](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#clock-operating-modes)  
-- Time-Set State Machine  
-- Alarm & Snooze Operation  
-- Timing Table  
-- Verilog Implementation  
-- OLED Display Interface  
-- Testing & Verification  
-- File Structure  
-- Contributors  
-- Conclusion  
+- [Clock Operating Modes](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#clock-operating-modes)
+   
+- [Time-Set State Machine](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#time-set-state-machine)
+  
+- [Alarm & Snooze Operation](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#alarm--snooze-operation)
+    
+- [Timing Table](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#timing-table-example)
+    
+- [Verilog Implementation](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#verilog-implementation)
+   
+- [OLED Display Interface](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#oled-display-interface)
+    
+- [Testing & Verification](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#testing--verification)
+    
+- [File Structure](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#file-structure)
+    
+- [Contributors](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#contributors)
+    
+- [Conclusion](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#conclusion)  
 
 ---
 
