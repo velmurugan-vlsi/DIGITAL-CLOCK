@@ -9,8 +9,10 @@ The design follows **synchronous digital design principles**, ensures reliable b
 ---
 
 ## Table of Contents
+
 - [Problem Statement](https://github.com/SiliconWorks/DIGITAL-CLOCK#problem-statement)
-- Features  
+  
+- [Features](https://github.com/SiliconWorks/DIGITAL-CLOCK#features)  
 - Tools and Hardware  
 - Block Diagram  
 - Clock Operating Modes  
