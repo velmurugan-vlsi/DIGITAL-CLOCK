@@ -1,4 +1,4 @@
-# ⏰ FPGA Real-Time Digital Clock with Alarm & Snooze (OLED Display)
+#  FPGA Real-Time Digital Clock with Alarm & Snooze (OLED Display)
 
 ## Project Overview
 This project implements a **Real-Time Digital Clock with Alarm and Snooze functionality** using **Verilog HDL** on an FPGA platform.  
