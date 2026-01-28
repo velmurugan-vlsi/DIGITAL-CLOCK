@@ -12,7 +12,7 @@ The design follows **synchronous digital design principles**, ensures reliable b
 
 - [Problem Statement](https://github.com/SiliconWorks/DIGITAL-CLOCK#problem-statement)
   
-- [Features](https://github.com/SiliconWorks/DIGITAL-CLOCK#features)  
+- [Features](https://github.com/SiliconWorks/DIGITAL-CLOCK/blob/main/README.md#features)  
 - Tools and Hardware  
 - Block Diagram  
 - Clock Operating Modes  
