@@ -154,7 +154,7 @@ The below block diagrma describes about the workflow of Digital Clock
   
 
 ---
--[OUTPUT](https://drive.google.com/file/d/1bFex65IOwSpP_deI47aLQbdK23z9aWW9/view?usp=drivesdk)
+[OUTPUT VIDEO](https://drive.google.com/file/d/1bFex65IOwSpP_deI47aLQbdK23z9aWW9/view?usp=drivesdk)
 
 
 ---
