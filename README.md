@@ -150,10 +150,12 @@ The below block diagrma describes about the workflow of Digital Clock
 - Manual button presses verified on hardware  
 - Time increments correctly without jitter  
 - Alarm and snooze trigger accurately  
-- OLED display remains stable over long runtime  
+- OLED display remains stable over long runtime
+  
 
 ---
-
+##OUTPUT
+-[VIDEO LINK][https://drive.google.com/file/d/1bFex65IOwSpP_deI47aLQbdK23z9aWW9/view?usp=drivesdk]
 
 
 ---
